@@ -18,11 +18,14 @@ export default class About extends Component {
                       <h2 className="colorlib-heading">About Me</h2>
                       <p>
                         I am a full stack software developer with a background
-                        in finance, investment and accounting. Two years ago, I
-                        caught the coding bugs when I taught myself Python and C
-                        languages while raising my two wonderful children. I
-                        recently completed the General Assembly Software
-                        Engineering Immersive Program.
+                        in finance, investment and accounting. I took a career
+                        break when my first child was born. During my downtime,
+                        I became interested in developing apps. So about two
+                        years ago, I started learning Python and C on my own. I
+                        caught the coding bug. I decided to immerse myself by
+                        enrolling in a bootcamp with General Assembly. I
+                        recently completed the Software Engineering Immersive
+                        Program.
                       </p>
                       <p>
                         I love solving problems and building applications. My
