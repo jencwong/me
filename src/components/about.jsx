@@ -27,12 +27,11 @@ export default class About extends Component {
                         <p>
                           How did I get into coding? When my first child was
                           born, I took a career break. During my downtime, I
-                          became interested in developing apps. So about two
-                          years ago, I started learning Python and C on my own.
-                          I caught the coding bug. I decided to immerse myself
-                          by enrolling in a bootcamp with General Assembly. I
-                          recently completed the Software Engineering Immersive
-                          Program.
+                          became interested in developing apps. So I started
+                          learning Python and C on my own. I caught the coding
+                          bug and I decided to immerse myself by enrolling in a
+                          bootcamp with General Assembly. I recently completed
+                          the Software Engineering Immersive Program.
                         </p>
                       </p>
                       <p></p>

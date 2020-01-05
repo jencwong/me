@@ -152,7 +152,7 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="#">Vacay Ai</a>
+                        <a href="https://vacay-ai.surge.sh/">Vacay Ai</a>
                       </h3>
                       <span>Full Stack App</span>
                       <p className="icon">
